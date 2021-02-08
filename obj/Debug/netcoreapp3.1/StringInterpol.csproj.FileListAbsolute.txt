@@ -1,0 +1,13 @@
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\bin\Debug\netcoreapp3.1\StringInterpol.exe
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\bin\Debug\netcoreapp3.1\StringInterpol.deps.json
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\bin\Debug\netcoreapp3.1\StringInterpol.runtimeconfig.json
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\bin\Debug\netcoreapp3.1\StringInterpol.runtimeconfig.dev.json
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\bin\Debug\netcoreapp3.1\StringInterpol.dll
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\bin\Debug\netcoreapp3.1\StringInterpol.pdb
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.csprojAssemblyReference.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.AssemblyInfoInputs.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.AssemblyInfo.cs
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.csproj.CoreCompileInputs.cache
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.dll
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.pdb
+C:\Users\kavan\Desktop\My Documents\School\.net database\StringInterpol\obj\Debug\netcoreapp3.1\StringInterpol.genruntimeconfig.cache
