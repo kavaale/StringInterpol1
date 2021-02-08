@@ -18,9 +18,9 @@ namespace StringInterpol
             Console.WriteLine($"6.{date.ToString("hh"),7}:{date:mm} {date:tt}{date.ToString("dddd"),16}");
             Console.WriteLine($"7.h:{date:hh}, m:{date:mm}, s:{date:ss}");
             Console.WriteLine($"8.{date:yyyy}.{date:dd}.{date:yy}.{date:hh}.{date:mm}.{date:ss}");
-            var pie = 3.1415;
-            Console.WriteLine("1. {0:C}", pie);
-            Console.WriteLine("2. {0:C3}", pie);
+            double pie = 3.1415;
+            Console.WriteLine($"1. {pie.ToString("C")}");
+            Console.WriteLine($"2. {pie.ToString("C3"),16}");
         }
     }
 }
